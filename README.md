@@ -1,4 +1,3 @@
-# pulseira-node-red
 # Pulseira Inteligente - Node-RED
 
 Acesse o painel: [https://pulseira-node-red.up.railway.app/ui](https://pulseira-node-red.up.railway.app/ui)
