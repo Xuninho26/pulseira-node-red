@@ -8,3 +8,4 @@ Acesse o painel: [https://pulseira-node-red.up.railway.app/ui](https://pulseira-
 3. Exporte o fluxo como `flows.json`
 4. Substitua o arquivo no repositório
 5. Faça commit e push
+🔄 Atualização: fluxo da pulseira inteligente testado em 21/10/2025
