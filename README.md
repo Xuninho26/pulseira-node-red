@@ -1,7 +1,5 @@
 # Pulseira Inteligente - Node-RED
 
-Acesse o painel: [https://pulseira-node-red.up.railway.app/ui](https://pulseira-node-red.up.railway.app/ui)
-
 ## Como contribuir
 1. Clone o repositório
 2. Edite o fluxo no Node-RED
